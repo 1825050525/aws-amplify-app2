@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Hello React app with AWS</h2>
+        <h3>welcome to yushi-app</h3>
       </header>
     </div>
   );
